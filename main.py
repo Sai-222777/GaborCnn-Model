@@ -6,7 +6,6 @@ from functions import *
 from Model import *
 from train import train_model
 from test import test_model
-from wilcoxon import wilcoxon_test
 
 torch.manual_seed(1729)
 
